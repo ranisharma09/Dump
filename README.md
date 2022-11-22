@@ -12,4 +12,4 @@ cd Dump
 
 
 
-python Dump.py
+python DUMPP.py
